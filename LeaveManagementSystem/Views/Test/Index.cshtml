@@ -1,0 +1,16 @@
+@model TestViewModel
+
+@{
+    ViewData["Title"] = "Test Value";
+}
+
+<h1>Hello from Test Controller</h1>
+<h2>Your Name is: @Model.Name</h2>
+@if (Model.DateOfBirth.HasValue)
+{
+    <p>Your Date of Birth is: @Model.DateOfBirth.Value.ToShortDateString()</p>
+}
+else
+{
+    <p>Date of Birth is not provided.</p>
+}
