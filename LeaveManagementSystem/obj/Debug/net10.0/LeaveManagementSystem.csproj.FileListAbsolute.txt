@@ -300,3 +300,4 @@
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveManagementSystem.csproj.AssemblyReference.cache
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveMan.AD34254B.Up2Date
+/Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveManagementSystem.sourcelink.json
