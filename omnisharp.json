@@ -1,0 +1,17 @@
+{
+  "RoslynExtensionsOptions": {
+    "enableAnalyzersSupport": true,
+    "enableRoslynAnalyzers": true,
+    "locationPaths": []
+  },
+  "Sdk": {
+    "IncludePrereleases": false
+  },
+  "FormattingOptions": {
+    "enableEditorConfigSupport": true,
+    "formatOnPaste": true
+  },
+  "MsBuild": {
+    "UseLegacyPowerShell": false
+  }
+}

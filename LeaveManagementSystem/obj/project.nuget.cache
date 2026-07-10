@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hSD0kw/DrW0=",
+  "dgSpecHash": "krteO3HGcUw=",
   "success": true,
   "projectFilePath": "/Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/LeaveManagementSystem.csproj",
   "expectedPackageFiles": [
@@ -78,6 +78,7 @@
     "/Users/naushadkhalid/.nuget/packages/microsoft.extensions.dependencymodel/10.0.2/microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
     "/Users/naushadkhalid/.nuget/packages/microsoft.net.stringtools/17.11.48/microsoft.net.stringtools.17.11.48.nupkg.sha512",
     "/Users/naushadkhalid/.nuget/packages/microsoft.visualstudio.solutionpersistence/1.0.52/microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
+    "/Users/naushadkhalid/.nuget/packages/microsoft.visualstudio.web.browserlink/2.2.0/microsoft.visualstudio.web.browserlink.2.2.0.nupkg.sha512",
     "/Users/naushadkhalid/.nuget/packages/microsoft.visualstudio.web.codegeneration/10.0.2/microsoft.visualstudio.web.codegeneration.10.0.2.nupkg.sha512",
     "/Users/naushadkhalid/.nuget/packages/microsoft.visualstudio.web.codegeneration.core/10.0.2/microsoft.visualstudio.web.codegeneration.core.10.0.2.nupkg.sha512",
     "/Users/naushadkhalid/.nuget/packages/microsoft.visualstudio.web.codegeneration.design/10.0.2/microsoft.visualstudio.web.codegeneration.design.10.0.2.nupkg.sha512",

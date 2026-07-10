@@ -1,3 +1,10 @@
 {
-    "dotnet.defaultSolution": "LeaveManagementSystem.slnx"
+    "dotnet.defaultSolution": "LeaveManagementSystem.slnx",
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.enableAnalyzersSupport": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "[razor]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.formatOnSave": true
+    }
 }

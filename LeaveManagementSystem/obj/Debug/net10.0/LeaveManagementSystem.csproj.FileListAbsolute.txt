@@ -301,3 +301,6 @@
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveManagementSystem.csproj.AssemblyReference.cache
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveMan.AD34254B.Up2Date
 /Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveManagementSystem.sourcelink.json
+/Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/bin/Debug/net10.0/LeaveManagementSystem.xml
+/Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/bin/Debug/net10.0/Microsoft.VisualStudio.Web.BrowserLink.dll
+/Users/naushadkhalid/Library/CloudStorage/OneDrive-comm-itindiapvtltd/Learning/LeaveManagementSystem/LeaveManagementSystem/obj/Debug/net10.0/LeaveManagementSystem.xml
